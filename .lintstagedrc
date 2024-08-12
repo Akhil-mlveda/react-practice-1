@@ -1,0 +1,10 @@
+{
+  "**/*.+(ts|tsx)": [
+    "eslint --fix --ignore-path .gitignore",
+    "jest --bail --findRelatedTests --passWithNoTests"
+  ],
+  "**/*+(json|html|css|scss)": [
+    "prettier --write --ignore-path .gitignore --write"
+  ],
+  "**/*+(css|scss)": ["stylelint --fix"]
+}

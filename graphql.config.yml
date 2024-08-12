@@ -1,0 +1,7 @@
+schema:
+  - https://rarify-custom-app-development.myshopify.com/api/2024-04/graphql.json:
+      headers:
+        X-Shopify-Storefront-Access-Token: d15fb163adc41895223315d9531f024c
+  - https://www.mlveda.com/ShopifyApps/rarify-test/graphql:
+      headers:
+        Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaG9wIjoicmFyaWZ5LWN1c3RvbS1hcHAtZGV2ZWxvcG1lbnQubXlzaG9waWZ5LmNvbSIsImlhdCI6MTcxODE4MjAyMn0.PQ8PyPbiYlavy0G7wOhv2OuxybGtKVdJDPjpBPTzwb4
